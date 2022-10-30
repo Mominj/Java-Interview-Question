@@ -7,3 +7,7 @@ This mechanism is used to persist the object.
 Advantages of Serialization
 1. To save/persist state of an object.
 2. To travel an object across a network.
+
+special keyword:
+Serializable , serialVersionUID, transient
+
