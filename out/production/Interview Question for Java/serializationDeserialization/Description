@@ -1,0 +1,13 @@
+Serialization and Deserialization:
+
+Serialization is a mechanism of converting the state of an object into a byte stream.
+Deserialization is the reverse process where the byte stream is used to recreate the actual Java object in memory.
+This mechanism is used to persist the object.
+
+Advantages of Serialization
+1. To save/persist state of an object.
+2. To travel an object across a network.
+
+special keyword:
+Serializable , serialVersionUID, transient
+
