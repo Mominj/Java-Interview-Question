@@ -1,0 +1,4 @@
+Java allows multiple threads to execute. They may be accessing the same variable or object. Synchronization helps
+to execute threads one after another.
+It is important as it helps to execute all concurrent threads while being in sync.
+It prevents memory consistency errors due to access to shared memory. 
