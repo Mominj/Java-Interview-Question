@@ -20,6 +20,6 @@ In C++ polymorphism is mainly divided into two types:
      java do not support operator overloading.
 
 ⦁	Run time Polymorphism:
-   --->Function overriding: on the other hand occurs when a derived class has a definition for one of the member functions of the base class. That base function is said to be overridden.
+   --->Method overriding: on the other hand occurs when a derived class has a definition for one of the member functions of the base class. That base function is said to be overridden.
 Dynamic Binding:
 In dynamic binding, the code to be executed in response to function call is decided at runtime. C++ has virtual functions to support this.
