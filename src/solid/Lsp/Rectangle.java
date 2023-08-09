@@ -1,4 +1,4 @@
-package solid.lsp;
+package solid.Lsp;
 
 public class Rectangle implements Area {
 

@@ -1,4 +1,4 @@
-package solid.lsp;
+package solid.Lsp;
 
 public class Square implements Area {
 
