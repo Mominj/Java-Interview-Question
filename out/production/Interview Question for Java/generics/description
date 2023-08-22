@@ -1,4 +1,6 @@
-Java Generic methods and generic classes enable programmers to specify, with a single method declaration,
-a set of related methods, or with a single class declaration, a set of related types, respectively.
+Generics means parameterized types. The idea is to allow type (Integer, String, … etc., and user-defined types)
+to be a parameter to methods, classes, and interfaces. Using Generics, it is possible to create classes that
+work with different data types. An entity such as class, interface,
+ or method that operates on a parameterized type is a generic entity.
 
 Generics also provide compile-time type safety that allows programmers to catch invalid types at compile time.
